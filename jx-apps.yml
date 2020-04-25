@@ -1,4 +1,5 @@
 apps:
+- name: jx-labs/jenkins-x-crds
 - name: stable/nginx-ingress
 - name: jenkins-x/jxboot-helmfile-resources
 - name: jenkins-x/lighthouse
